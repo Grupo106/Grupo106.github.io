@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="900.000000pt"
+   height="650.000000pt"
+   viewBox="0 0 900.000000 650.000000"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="template_caracteristicas.svg"
+   inkscape:export-filename="/home/yromero/git/grupo106/webpage/index_files/optimiza.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.8215493"
+     inkscape:cx="470.08107"
+     inkscape:cy="409.42988"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:snap-grids="true"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3355" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+Created by potrace 1.13, written by Peter Selinger 2001-2015
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.80000001;stroke-opacity:1"
+     d="m 1.0253906,650.92188 c 299.8867194,0 599.7734394,-10e-6 899.6601594,0 0,-217.11589 0,-434.23178 0,-651.34766125 -299.88672,0 -599.77344,0 -899.6601594,0 0,217.11588125 0,434.23177125 0,651.34766125 z"
+     id="rect3345"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="72"
+     inkscape:export-ydpi="72" />
+  <path
+     style="fill:#ffffff;fill-opacity:1"
+     d="M 552.91016 83.337891 C 546.7207 83.328125 541.68164 83.476562 538.80664 83.820312 C 513.55664 86.820312 500.55664 88.945312 485.68164 92.695312 C 371.68164 121.19532 281.93164 210.94531 253.43164 324.94531 C 246.55664 352.69531 244.43164 370.57031 244.43164 403.07031 C 244.43164 435.57031 246.55664 453.44531 253.43164 481.19531 C 281.93164 595.19531 371.68164 684.94531 485.68164 713.44531 C 513.43164 720.32031 531.30664 722.44531 563.80664 722.44531 C 596.30664 722.44531 614.18164 720.32031 641.93164 713.44531 C 755.93164 684.94531 845.68164 595.19531 874.18164 481.19531 C 881.05664 453.44531 883.18164 435.57031 883.18164 403.07031 C 883.18164 370.57031 881.05664 352.69531 874.18164 324.94531 C 843.05664 200.32031 739.55664 106.07031 612.30664 86.695312 C 600.40039 84.820313 571.47852 83.367188 552.91016 83.337891 z "
+     id="path3563"
+     transform="scale(0.8,0.8)" />
+  <g
+     id="Layer_2"
+     transform="matrix(0.8,0,0,0.8,424.71776,230.54407)" />
+</svg>
